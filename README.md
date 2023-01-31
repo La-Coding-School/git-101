@@ -1,3 +1,3 @@
 # git-101
 
-Example d'utilisation des forks
+Simple boilerplate to show how to use git with Github on @la-Coding-School setup day
